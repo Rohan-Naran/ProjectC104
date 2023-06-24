@@ -1,0 +1,28 @@
+.obj{
+    border-width:5px;
+    border-style: ridge;
+    width:500px;
+    text-align: center;
+    background-color: rgb(255, 0, 0);
+}
+#camera{
+    height:300px;
+    width:300px;
+    border-width:5px;
+    border-style: ridge;
+}
+h4{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-style:inherit;
+    color: rgb(255, 255, 255);
+}
+#selfie{
+    height:250px;
+    width:300px;
+    border-width:5px;
+    border-style: ridge;
+}
+body{
+    background-color:aquamarine;
+}
